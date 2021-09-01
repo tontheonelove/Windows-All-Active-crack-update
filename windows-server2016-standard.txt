@@ -1,0 +1,9 @@
+DISM.exe /Online /Get-TargetEditions
+
+DISM /online /Set-Edition:ServerStandard /ProductKey:WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY /AcceptEula
+
+slmgr.vbs /ipk WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY
+
+slmgr.vbs /skms kms.teevee.asia
+
+slmgr.vbs /ato
