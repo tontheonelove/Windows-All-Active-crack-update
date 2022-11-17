@@ -1,0 +1,3 @@
+slmgr.vbs /ipk WMDGN-G9PQG-XVVXX-R3X43-63DFG
+slmgr.vbs /skms kms.teevee.asia
+slmgr.vbs /ato
