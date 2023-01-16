@@ -22,6 +22,7 @@ Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
 
 Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 
+# Server
 
 Windows Server 2019 Datacenter key: WMDGN-G9PQG-XVVXX-R3X43-63DFG
 
